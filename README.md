@@ -19,7 +19,7 @@ Possui os arquivos .csv que foram utilizados para treinar e testar os modelos, a
 
 > Python 3
 
-> Jupyter Notebook
+> Jupyter Notebook (similares)
 
 > Pacotes do Python disponíveis em requirements desse repositório
 
