@@ -9,7 +9,7 @@ Esse script utiliza arquivos .csv, com variáveis predeterminadas de produtos me
 
 O programa é feito utilizando python 3 e sua instalação é nescessária no ambiente em que for implementado. O relatório de análise de dados é no formato notebook e é preciso uma plataforma que seja capaz de abri-lo.
 
-Ele possui dois modelos com métodos diferentes de árvore de decisão com o mesmo objetivo porém por caminhos diferentes, que podem ser utilizados de acordo com a situação.
+Ele possui dois modelos com métodos diferentes de árvore de decisão com o mesmo objetivo, porém por caminhos diferentes, que podem ser utilizados de acordo com a situação.
 
 Também possui um arquivo em forma de notebook com a explicação do problema, análise dos dados, modelo e o código operacional. Pode ser aplicado tanto em forma de notebook quanto em um terminal ou ambiente virtual, gerando um arquivo .csv com duas colunas (rowNumber, predictedValues) que são o número de linhas e o resultado predito dos novos dados de entrada.
 
