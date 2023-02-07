@@ -23,6 +23,7 @@ Possui os arquivos .csv que foram utilizados para treinar e testar os modelos, a
 
 > Pacotes do Python disponíveis em requirements desse repositório
 
+> Arquivo do formato .csv com o mesmo formato do arquivo de treino disponibilizado nesse repositório
 
 
 
