@@ -1,2 +1,3 @@
-# Rob--prever-falhas
-Um robô criado usando Machine Learning utilziando o método de árvore de decisão para prever tipo de falhas
+#### Robo-prever-falhas
+Um robô criado com Machine Learning, utilizando o método de árvore de decisão para prever tipo de falhas em máquinas.
+
