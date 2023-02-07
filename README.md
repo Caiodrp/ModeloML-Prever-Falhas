@@ -5,7 +5,7 @@ Esse script utiliza arquivos .csv, com variáveis predeterminadas de produtos me
 
 
 
-<h1 align="left"> Modelo Para Prever Falhas </h1>
+<h1 align="left"> Instruções: </h1>
 
 O programa é feito utilizando python 3 e sua instalação é nescessária no ambiente em que for implementado. O relatório de análise de dados é no formato notebook e é preciso uma plataforma que seja capaz de abri-lo.
 
