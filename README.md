@@ -15,25 +15,15 @@ Também possui um arquivo em forma de notebook com a explicação do problema, a
 
 Possui os arquivos .csv que foram utilizados para treinar e testar os modelos, assim como o arquivo resultante da previsão original.
 
-Os pacotes nescessários para rodar todo o projeto são: 
+<h1 align="left"> Ferramentas: </h1>
 
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-import pickle
+> Python 3
 
-from sklearn.tree import plot_tree
-from sklearn import tree
-from sklearn.tree import DecisionTreeClassifier
+> Jupyter Notebook
 
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import plot_confusion_matrix
+> Pacotes do Python disponíveis em requirements desse repositório
 
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
-from sklearn.model_selection import KFold
+
 
 
 
